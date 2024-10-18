@@ -12,8 +12,6 @@ A fully responsive chat interface built using **React**, **Vite**, **Material-UI
 - **State Management**: Managed using Redux Toolkit, ensuring clean and organized state for messages and user information.
 - **Material-UI Components**: Styled using MUI components for a modern, consistent UI.
 
-## Project Structure
-/src ├── /app | └── store.js # Redux store configuration ├── /features | └── chatSlice.js # Redux slice for chat functionality ├── /components | └── Chat.jsx # Main Chat component with input field, message list ├── App.jsx # App component containing the layout └── main.jsx # Entry point for React and Vite
 
 
 
@@ -69,6 +67,3 @@ To learn more about the technologies used in this project, visit the following d
 - [Material-UI Documentation](https://mui.com/material-ui/getting-started/installation/)
 - [Redux Toolkit Documentation](https://redux-toolkit.js.org/introduction/getting-started)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
