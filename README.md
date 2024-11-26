@@ -2,6 +2,11 @@
 
 A fully responsive chat interface built using **React**, **Vite**, **Material-UI (MUI)**, and **Redux Toolkit**. This project implements a simple chat UI where users can send and receive messages, with state management provided by Redux Toolkit.
 
+### Chat UI with Message List and Input Field
+
+![Chat UI](image.png)
+
+
 ## Features
 
 - **Responsive Design**: The chat interface adjusts to various screen sizes and is centered on the screen for an optimal user experience.
@@ -52,11 +57,7 @@ Follow these steps to get the project running locally:
 2. Click the "Send" button or press "Enter" to send the message.
 3. Messages will appear in the chat window, and you'll receive a simulated reply after a short delay.
 
-## Screenshots
 
-### Chat UI with Message List and Input Field
-
-![Chat UI](image.png)
 
 ## Learn More
 
